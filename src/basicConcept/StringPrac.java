@@ -5,5 +5,7 @@ public class StringPrac {
 	
 System.out.println("creating conflict in B");
 System.out.println("new msg");
+System.out.println("New msg on A1");
+System.out.println("added in branch b1");
 	}
 }
